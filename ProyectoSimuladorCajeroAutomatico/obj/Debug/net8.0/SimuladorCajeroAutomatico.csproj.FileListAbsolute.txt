@@ -1,0 +1,56 @@
+C:\Users\DELL-Mini\source\repos\SimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.exe
+C:\Users\DELL-Mini\source\repos\SimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.deps.json
+C:\Users\DELL-Mini\source\repos\SimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.runtimeconfig.json
+C:\Users\DELL-Mini\source\repos\SimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.dll
+C:\Users\DELL-Mini\source\repos\SimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.pdb
+C:\Users\DELL-Mini\source\repos\SimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL-Mini\source\repos\SimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.AssemblyInfoInputs.cache
+C:\Users\DELL-Mini\source\repos\SimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.AssemblyInfo.cs
+C:\Users\DELL-Mini\source\repos\SimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\DELL-Mini\source\repos\SimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.dll
+C:\Users\DELL-Mini\source\repos\SimuladorCajeroAutomatico\obj\Debug\net8.0\refint\SimuladorCajeroAutomatico.dll
+C:\Users\DELL-Mini\source\repos\SimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.pdb
+C:\Users\DELL-Mini\source\repos\SimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.genruntimeconfig.cache
+C:\Users\DELL-Mini\source\repos\SimuladorCajeroAutomatico\obj\Debug\net8.0\ref\SimuladorCajeroAutomatico.dll
+C:\Users\curacao\Documents\Estudio\01 TÉCNICO EN DESARROLLO DE APLICACIONES WEB\T1474 PROGRAMACIÓN I 2024Q2\Proyecto\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\curacao\Documents\Estudio\01 TÉCNICO EN DESARROLLO DE APLICACIONES WEB\T1474 PROGRAMACIÓN I 2024Q2\Proyecto\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.AssemblyInfoInputs.cache
+C:\Users\curacao\Documents\Estudio\01 TÉCNICO EN DESARROLLO DE APLICACIONES WEB\T1474 PROGRAMACIÓN I 2024Q2\Proyecto\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.AssemblyInfo.cs
+C:\Users\curacao\Documents\Estudio\01 TÉCNICO EN DESARROLLO DE APLICACIONES WEB\T1474 PROGRAMACIÓN I 2024Q2\Proyecto\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\curacao\Documents\Estudio\01 TÉCNICO EN DESARROLLO DE APLICACIONES WEB\T1474 PROGRAMACIÓN I 2024Q2\Proyecto\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.dll
+C:\Users\curacao\Documents\Estudio\01 TÉCNICO EN DESARROLLO DE APLICACIONES WEB\T1474 PROGRAMACIÓN I 2024Q2\Proyecto\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\refint\SimuladorCajeroAutomatico.dll
+C:\Users\curacao\Documents\Estudio\01 TÉCNICO EN DESARROLLO DE APLICACIONES WEB\T1474 PROGRAMACIÓN I 2024Q2\Proyecto\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.pdb
+C:\Users\curacao\Documents\Estudio\01 TÉCNICO EN DESARROLLO DE APLICACIONES WEB\T1474 PROGRAMACIÓN I 2024Q2\Proyecto\ProyectoSimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.exe
+C:\Users\curacao\Documents\Estudio\01 TÉCNICO EN DESARROLLO DE APLICACIONES WEB\T1474 PROGRAMACIÓN I 2024Q2\Proyecto\ProyectoSimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.deps.json
+C:\Users\curacao\Documents\Estudio\01 TÉCNICO EN DESARROLLO DE APLICACIONES WEB\T1474 PROGRAMACIÓN I 2024Q2\Proyecto\ProyectoSimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.runtimeconfig.json
+C:\Users\curacao\Documents\Estudio\01 TÉCNICO EN DESARROLLO DE APLICACIONES WEB\T1474 PROGRAMACIÓN I 2024Q2\Proyecto\ProyectoSimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.dll
+C:\Users\curacao\Documents\Estudio\01 TÉCNICO EN DESARROLLO DE APLICACIONES WEB\T1474 PROGRAMACIÓN I 2024Q2\Proyecto\ProyectoSimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.pdb
+C:\Users\curacao\Documents\Estudio\01 TÉCNICO EN DESARROLLO DE APLICACIONES WEB\T1474 PROGRAMACIÓN I 2024Q2\Proyecto\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.genruntimeconfig.cache
+C:\Users\curacao\Documents\Estudio\01 TÉCNICO EN DESARROLLO DE APLICACIONES WEB\T1474 PROGRAMACIÓN I 2024Q2\Proyecto\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\ref\SimuladorCajeroAutomatico.dll
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\1\ProyectoSimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.exe
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\1\ProyectoSimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.deps.json
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\1\ProyectoSimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.runtimeconfig.json
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\1\ProyectoSimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.dll
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\1\ProyectoSimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.pdb
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\1\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\1\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.AssemblyInfoInputs.cache
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\1\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.AssemblyInfo.cs
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\1\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\1\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.dll
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\1\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\refint\SimuladorCajeroAutomatico.dll
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\1\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.pdb
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\1\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.genruntimeconfig.cache
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\1\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\ref\SimuladorCajeroAutomatico.dll
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\2\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\2\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.AssemblyInfoInputs.cache
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\2\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.AssemblyInfo.cs
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\2\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\2\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.dll
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\2\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\refint\SimuladorCajeroAutomatico.dll
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\2\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.pdb
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\2\ProyectoSimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.exe
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\2\ProyectoSimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.deps.json
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\2\ProyectoSimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.runtimeconfig.json
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\2\ProyectoSimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.dll
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\2\ProyectoSimuladorCajeroAutomatico\bin\Debug\net8.0\SimuladorCajeroAutomatico.pdb
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\2\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\SimuladorCajeroAutomatico.genruntimeconfig.cache
+C:\Users\Stephen\OneDrive - Universidad Tecnologica Centroamericana\Segundo Periodo\Programacion 1\Semana10\2\ProyectoSimuladorCajeroAutomatico\obj\Debug\net8.0\ref\SimuladorCajeroAutomatico.dll
